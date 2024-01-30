@@ -1,5 +1,7 @@
 # Portfolio
 My personal repository
+
+
 ![Screenshot 2024-01-29 154441](https://github.com/Thumeka/Thumeka/assets/128834708/b05823c6-4dd1-4a08-87d9-c35b3be25144)
 
 - 👋 Hi, I’m @Thumeka
